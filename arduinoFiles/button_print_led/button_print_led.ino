@@ -6,7 +6,6 @@ CTA, 2024
 const int buttonPin = 2;
 const int ledPin = 13;    // the number of the LED pin
 
-
 int buttonState = 0;
 
 void setup() {

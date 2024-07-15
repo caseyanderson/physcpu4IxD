@@ -24,7 +24,7 @@ style: |
 # Physical Computing for Interaction
 #### Casey Anderson, 2024
 
-##### Session 2.1
+##### Session 3.2
 
 photo here!
 
@@ -32,20 +32,7 @@ photo here!
 
 <!-- paginate: true -->
 
-## Session 2.1
+## Session 3.2
 
-- Review Assignments
-- **Workshop** Light Switch Circuit (1x1)
-- **Workshop** Multiple Light Switch Circuit (2x2)
-
----
-
-## LED Switch Circuit
-
-![](./imgs/electronics/1xLED1xSwitch.jpg)
-
----
-
-### 2x LED Circuit
-
-![](./imgs/electronics/2xLED.jpg)
+- **Group Lab** Sketch and Prototype Embedded Buttons
+- **Assignment**: Present 2x Embedded Buttons to Class (1x momentary, 1x toggle)

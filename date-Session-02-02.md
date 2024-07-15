@@ -115,3 +115,21 @@ Hookup Pattern
 
 ![bg right width:600](./imgs/ArduinoIDE/button-print.jpg)
 
+* `digitalWrite`: set `ledPin` `HIGH` or `LOW`
+
+---
+
+## Assignments
+### More Light Switch Circuits
+
+Be prepared to wire up working versions of the following LED Circuits:
+
+1) 1x Switch 1x LED
+3) 2x Switches 2x LEDs
+
+---
+
+## Assignments
+### Review: Blink, Button examples
+
+Be prepared to quickly wire up any of the Arduino examples we covered today.

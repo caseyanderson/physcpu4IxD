@@ -36,7 +36,7 @@ photo here!
 
 - **Workshop** Introduction to Electronics
 - **Workshop** Prototyping on a Breadboard
-- **Workshop** LED Circuits
+- **Workshop** LED Circuit
 - **Assignment** 10/5/1 Sketches; Prototype Proposal
 
 ---
