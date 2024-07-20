@@ -59,7 +59,7 @@ photo here!
 - Through-Hole Resistors - 220 ohm 10% 1/4W, 10K ohm 5% 1/4W - Pack of 25 each
 - Super Bright Red 5mm LED (25 pack) or similar
 - Copper Foil Tape with Conductive Adhesive, 1/4 In. Wide
-
+- Cardboard, Cardstock, drinking straws, etc.
 ---
 
 ## Introduction to Electronics
