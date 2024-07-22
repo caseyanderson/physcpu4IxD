@@ -41,4 +41,16 @@ photo here!
 
 ## LED Animation
 
+Hookup Pattern
+
+![bg right width:550](./imgs/ArduinoIDE/pwm_simple.jpg)
+
 ---
+
+### LED Animation (Fade Lab)
+
+![bg right width:550](./imgs/ArduinoIDE/pwm_simple.jpg)
+
+Get into groups of two and study this code. Take the next half an hour to produce some alternate versions of this:
+* led brightness fades in from 0% to 100% brightness and then blinks rhythmically three times
+* led brightness fades out from 100% to 0% brightness, cued by a button press

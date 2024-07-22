@@ -1,5 +1,5 @@
 /*
-analog read
+analog read threshold
 */
 
 int sensorPin = A0;
@@ -17,10 +17,13 @@ void loop() {
   sensorValue = analogRead(sensorPin);
 
   if(sensorValue > threshold){
+    Serial.println("ON");
     digitalWrite(ledPin, HIGH);
   } else {
+    Serial.println("OFF");
     digitalWrite(ledPin, LOW);
   }
+
   Serial.print("sensor val: ");
   Serial.println(sensorValue);
   
